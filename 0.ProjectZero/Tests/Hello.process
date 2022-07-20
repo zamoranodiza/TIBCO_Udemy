@@ -15,14 +15,14 @@
         <pd:type>com.tibco.pe.core.WriteToLogActivity</pd:type>
         <pd:resourceType>ae.activities.log</pd:resourceType>
         <pd:x>296</pd:x>
-        <pd:y>63</pd:y>
+        <pd:y>64</pd:y>
         <config>
             <role>User</role>
         </config>
         <pd:inputBindings>
             <ns:ActivityInput>
                 <message>
-                    <xsl:value-of select="&quot;Hello world. Welcome to the course about TIBCO BW 5&quot;"/>
+                    <xsl:value-of select="&quot;Hello world. Welcome to the course about TIBCO BW 5 Again&quot;"/>
                 </message>
             </ns:ActivityInput>
         </pd:inputBindings>
