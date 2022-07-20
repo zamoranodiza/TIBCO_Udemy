@@ -22,7 +22,7 @@
         <pd:inputBindings>
             <ns:ActivityInput>
                 <message>
-                    <xsl:value-of select="&quot;Hello world. Welcome to the course about TIBCO BW 5 Again&quot;"/>
+                    <xsl:value-of select="&quot;Hello world. Welcome to the course about TIBCO BW 5 Again a wiwi&quot;"/>
                 </message>
             </ns:ActivityInput>
         </pd:inputBindings>
